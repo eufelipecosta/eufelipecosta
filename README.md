@@ -4,10 +4,10 @@
  <a href="https://instagram.com/eu.felipecosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:sp.felipecosta.sp"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<div align="center">
+
 👨‍💻Cursando Ciências da Computação
 
-<div align="center">
+
   <a href="https://github.com/eufelipecosta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eufelipecosta&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    
