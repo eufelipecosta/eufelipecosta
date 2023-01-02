@@ -23,13 +23,16 @@
 
 
 ###  Outros Conhecimentos:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp; 
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
  ###  Contato: 
  <div align="left">  
-<a href="https://instagram.com/eu.felipecosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
- <a href="https://www.linkedin.com/in/felipe-costa-silva-a3b7a120b/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+ <a href="https://www.linkedin.com/in/felipe-costa-silva-a3b7a120b/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" widtf="25" height="25"</a>   
+<a href="https://instagram.com/eu.felipecosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" widtf="25" height="25"</a>   
+ 
+           
+   
   
 </div>
  
