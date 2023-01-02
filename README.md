@@ -29,6 +29,8 @@
  ###  Contato: 
  <div align="left">  
 <a href="https://instagram.com/eu.felipecosta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href="https://www.linkedin.com/in/felipe-costa-silva-a3b7a120b/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />
+  
 </div>
  
 <div> 
